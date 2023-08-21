@@ -1,6 +1,6 @@
 ---
-title: "Xin-hui Xie"
-author: Xin-hui Xie
+title: "XIE, Xin-hui"
+author: XIE, Xin-hui
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -16,15 +16,19 @@ output:
 
 -   <i class="fa fa-envelope"></i> xxh.med\@gmail.com
 -   <i class="fa fa-envelope"></i> xin-hui.xie\@live.com
--   For more information, please contact me via email.
+-   ORCID [0000-0002-3603-3854](https://orcid.org/0000-0002-3603-3854)
+-   Google Scholar [Xin-hui Xie](https://scholar.google.com/citations?user=exF-vzUAAAAJ)
+
+## Citation {#citation}
+
+![Citation20230821](pics/Citation20230821.png){width="400"}
 
 ## Skills {#skills}
 
--   Experienced in statistical analysis, statistical learning models, and optimization methods.
+-   Full experience with experiment design, and management of clinical trials, such as RCTs.
 
--   Full experience with next generation sequencing data analysis.
+-   Experienced in clinical statistical analysis, bioinformatics, and propose new algorithms.
 
--   Highly skilled in R, Bash, Perl, Python, LaTeX
 
 ## Disclaimer {#disclaimer}
 
@@ -34,76 +38,94 @@ Last updated on `r Sys.Date()`.
 
 # Main
 
-## Xin-hui Xie {#title}
+## XIE, Xin-hui {#title}
 
-### Currently searching for a AP/Post-doc position
+### Currently searching for an AP/Post-doc/Scientist position
 
-Please note that this is a *real* resume, and I'm really looking for a PhD student position at the moment. I made this resume because Yihui asked me if I'd like to test the **pagedown** package with my resume. If you are interested in my background and skills, please feel free to contact me.
+XXXXXX
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
-### Wuhan University of Chemical Technology
+### Wuhan University
 
-B.S. in Information and Computing Sciences
+Ph.D. in Psychiatry
 
 Wuhan, China
 
 2021-2024
 
-Thesis: Dyadic wavelet and its application in edge detection
+Thesis: 
 
-### University of Chinese Academy of Sciences
+### Anhui Medical University
 
-M.S. in Bioinformatics
+M.S. in Psychiatry
 
-Beijing, China
+Hefei, China
 
-2014
+2011-2014
 
-Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
+Thesis: Dysfunction of Visually-Guided-Saccade in Schizophrenia
 
-## Research Experience {data-icon="laptop"}
+### Anhui Medical University
 
-### Graduate Research Assistant
+M.D. equivalent
 
-Beijing Institute of Genomics, Chinese Academy of Sciences
+Hefei, China
 
-Beijing, China
+2005-2010
 
-2011 - 2014
 
--   Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
--   Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
 
-### Bioinformatican
+## Research Experience {data-icon="landmark"}
 
-My Health Gene Technology Co., Ltd.
+### Psychiatrist
 
-Beijing, China
+Department of Psychiatry,
+Shenzhen Mental Health Center (Shenzhen Kangning Hospital)
 
-2015 - 2016
+Shenzhen, China
 
--   Investigated how cancer cells spread to other parts of the body at the single cell level.
+2014 - 2017
 
-### Visiting Scientist
+-   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
+-   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
+-   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
 
-University of Alabama at Birmingham
+### Director (Full-time)
 
-AL, USA
+Brain Function and Psychosomatic Medicine Institute,
+Huizhou Mental Health Center (Second People’s Hospital of Huizhou)
 
-2016 - 2018
+Huizhou, China
 
--   Investigated the role of mitochondria in development of cancer.
--   Investigated the evolution of genome architecture and its role in important evolutionary events.
--   Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
+2017 - 2021 
+
+-   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
+-   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
+-   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
+
+### Director (Part-time)
+
+Brain Function and Psychosomatic Medicine Institute,
+Huizhou Mental Health Center (Second People’s Hospital of Huizhou)
+
+Huizhou, China
+
+2021 - Now 
+
+-   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
+-   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
+-   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
 
 ## Professional Experience {data-icon="suitcase"}
 
+## Professional Experience {data-icon="landmark"}
+
 ### Data Scientist, intern
 
-SupStat Inc.
+xxx Inc.
 
-Beijing, China
+xxx, China
 
 2014
 
