@@ -29,7 +29,6 @@ output:
 
 -   Experienced in clinical statistical analysis, bioinformatics, and propose new algorithms.
 
-
 ## Disclaimer {#disclaimer}
 
 This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
@@ -52,9 +51,9 @@ Ph.D. in Psychiatry
 
 Wuhan, China
 
-2021-2024
+2021 - 2024
 
-Thesis: 
+Thesis:
 
 ### Anhui Medical University
 
@@ -62,7 +61,7 @@ M.S. in Psychiatry
 
 Hefei, China
 
-2011-2014
+2011 - 2014
 
 Thesis: Dysfunction of Visually-Guided-Saccade in Schizophrenia
 
@@ -72,16 +71,37 @@ M.D. equivalent
 
 Hefei, China
 
-2005-2010
+2005 - 2010
 
+## Professional Experience {data-icon="landmark"}
 
+### Director (Part-time)
 
-## Research Experience {data-icon="landmark"}
+Brain Function and Psychosomatic Medicine Institute, Huizhou Mental Health Center (Second People's Hospital of Huizhou)
+
+Huizhou, China
+
+2021 - Now
+
+-   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
+-   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
+-   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
+
+### Director (Full-time)
+
+Brain Function and Psychosomatic Medicine Institute, Huizhou Mental Health Center (Second People's Hospital of Huizhou)
+
+Huizhou, China
+
+2017 - 2021
+
+-   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
+-   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
+-   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
 
 ### Psychiatrist
 
-Department of Psychiatry,
-Shenzhen Mental Health Center (Shenzhen Kangning Hospital)
+Department of Psychiatry, Shenzhen Mental Health Center (Shenzhen Kangning Hospital)
 
 Shenzhen, China
 
@@ -91,101 +111,375 @@ Shenzhen, China
 -   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
 -   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
 
-### Director (Full-time)
+## Publications {data-icon="dna"}
 
-Brain Function and Psychosomatic Medicine Institute,
-Huizhou Mental Health Center (Second People’s Hospital of Huizhou)
-
-Huizhou, China
-
-2017 - 2021 
-
--   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
--   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
--   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
-
-### Director (Part-time)
-
-Brain Function and Psychosomatic Medicine Institute,
-Huizhou Mental Health Center (Second People’s Hospital of Huizhou)
-
-Huizhou, China
-
-2021 - Now 
-
--   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
--   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
--   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
-
-## Professional Experience {data-icon="suitcase"}
-
-## Professional Experience {data-icon="landmark"}
-
-### Data Scientist, intern
-
-xxx Inc.
-
-xxx, China
-
-2014
-
-::: concise
--   Taught R language to beginners.
--   Wrote Shiny app demos.
--   Converted statistical tutorials from SPSS to R language.
-:::
-
-### Bioinformatician
-
-My Health Gene Technology Co., Ltd.
-
-Beijing, China
-
-2015 - 2016
-
-::: concise
--   Analyzed whole-exome sequencing data.
--   Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
--   Studied tumor metastasis and wrote research reports.
--   Also did case studies to identify the genetic defect causing rare disease.
-:::
-
-## Teaching Experience {data-icon="chalkboard-teacher"}
-
-### Introduction to R Language for Beginners.
-
-Instructor of R and Data Mining Training Courses at SupStat Inc.
-
-Beijing, China
-
-2014
-
-### Computational Biology and Bioinformatics.
-
-Teaching assistant of GBS CB2-201 courses at UAB
-
-AL, USA
-
-2016 - 2017
-
-## Selected Publications and Posters {data-icon="file"}
-
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
-
-Poster for 2013 International Conference of Genomics
-
-Qingdao, China
-
-2014
-
-**Yu L**, Chen B, Zhang Z.
-
-### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
-
-J Cell Sci. 2016 May 15;129(10):2075-84.
+### (Note: #First author, \*Corresponding author)
 
 N/A
 
-2016
+N/A
 
-Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W.
+N/A
+
+### Brain-derived Extracellular Vesicles
+
+*Poster for 2023 WPA*
+
+N/A
+
+2023
+
+[**Xie, X. H.#**]{.underline}, Chen, M.M., Liu, Z.
+
+### Trajectories of Efficacy and Cognitive Function During Electroconvulsive Therapy Course in Young Adults with Treatment-Resistant Depression.
+
+*Neuropsychiatric disease and treatment*, 19, 267--281.
+
+N/A
+
+2023
+
+Xu, S. X.#, [**Xie, X. H.#**]{.underline}, Yao, L., Chen, L. C., Wan, Q., Chen, Z. H., & Liu, Z.\* (Comment: XXXX)
+
+### Young Adults with Major Depression Show Altered Microbiome.
+
+*Neuroscience*, 522, 23–32. 
+
+N/A
+
+2023
+
+Chen, M. M.#, Wang, P., [**Xie, X. H.**]{.underline}, Nie, Z., Xu, S. X., Zhang, N., Wang, W., Yao, L., & Liu, Z.\* 
+
+### Nicotinamide ameliorates mitochondria-related neuronal apoptosis and cognitive impairment via the NAD+/SIRT3 pathway.
+
+*Schizophrenia (Heidelberg, Germany)*, 9(1), 32.
+
+N/A
+
+2023
+
+Hao, K.#, Chen, F.#, Zhao, L.#, Xu, S., Xiong, Y., Xu, R., [**Xie, X. H.**]{.underline}, Huang, H., Shu, C., Liu, Z., Wang, H.*, & Wang, G.\* 
+
+### Assessment of brain imaging and cognitive function in a modified rhesus monkey model of depression.
+
+*Behavioural brain research*, 445, 114382.  
+
+N/A
+
+2023
+
+Chen, G.#, Ma, S.#, Gong, Q.#, [**Xie, X. H.**]{.underline}, Wu, P., Guo, W., Kang, L., Li, M., Zhang, H., Zhou, E., Zhang, Y., Rong, J., Duan, H., Jin, L., Xu, S., Zhang, N., Sun, S., Li, R., Yao, L., Xiang, D., … Liu, Z.\* 
+
+
+### Inflammatory bowel disease and the long-term risk of depression: A prospective cohort study of the UK biobank.
+
+*General hospital psychiatry*, 82, 26–32.
+
+N/A
+
+2023
+
+Ma, S.#, Wang, W., Gong, Q., Xiang, D., Yao, L., Xu, S., [**Xie, X. H.**]{.underline}, Wang, H., Wang, G., Yang, J., & Liu, Z.\* 
+
+
+### A Cross-Sectional Study: Structural and Related Functional Connectivity Changes in the Brain: Stigmata of Adverse Parenting in Patients with Major Depressive Disorder?
+
+*Brain sciences*, 13(4), 694.
+
+N/A
+
+2023
+
+Nie, Z., [**Xie, X. H.**]{.underline}, Kang, L., Wang, W., Xu, S., Chen, M., Yao, L., Gong, Q., Zhou, E., Li, M., Wang, H., Bu, L., & Liu, Z.\* 
+
+
+### Hyper-inflammation of Astrocytes in Patients of Major Depressive Disorder: Evidence from Serum Astrocyte-derived Extracellular Vesicles.
+
+*Brain, behavior, and immunity*, 109, 51--62.
+
+N/A
+
+2023
+
+[**Xie, X. H.#**]{.underline}, Lai, W. T., Xu, S. X., Forti, M. D., Zhang, J. Y., Chen, M. M., Yao, L. H., Wang, P. L., Hao, K. K., & Han, R.\* (Comment: XXXX)
+
+### Measuring childhood trauma in young adults with depression: A latent profile analysis.
+
+*Asian journal of psychiatry*, 109, 51--62.
+
+N/A
+
+2022
+
+Wang, P.#, [**Xie, X. H.**]{.underline}, Chen, M., Zhang, N., Wang, W., Ma, S., Nie, Z., Yao, L., & Liu, Z.\*
+
+### The relationship between vitamin D levels in seasonal variations and Chinese patients with first-episode drug-naive depression.
+
+*Journal of psychosomatic research*, 164, 111079.
+
+N/A
+
+2022
+
+Yao, L.#, Zhang, N., Ma, S., [**Xie, X. H.**]{.underline}, Xu, S., Xiang, D., Kang, L., Chen, M. M., Wang, P., & Liu, Z.\*
+
+### Nicotinamide reverses deficits in puberty-born neurons and cognitive function after maternal separation.
+
+*Journal of neuroinflammation*, 19(1), 232.
+
+N/A
+
+2022
+
+Hao, K.#, Wang, H.#, Zhang, Y.#, [**Xie, X. H.**]{.underline}, Huang, H., Chen, C., Xu, S., Xu, R., Shu, C., Liu, Z., Zhou, Y., Reynolds, G. P., & Wang, G.\*
+
+### Electroconvulsive Therapy in a Young Adult Patient With Bipolar Depression and Dysembryoplastic Neuroepithelial Tumor: A Case Report.
+
+*The journal of ECT*, 10.1097/YCT.0000000000000876.
+
+N/A
+
+2022
+
+Xu, S. X.#, [**Xie, X. H.#**]{.underline}, Su, D., & Liu, Z.\* (Comment: XXXX)
+
+### Analysis of Psychological and Gut Microbiome Characteristics in Patients With Non-erosive Reflux Disease.
+
+*Frontiers in psychiatry*, 12, 741049.
+
+N/A
+
+2022
+
+Yang, F.#, [**Xie, X. H.#**]{.underline}, Li, X., Liao, H. N., & Zou, B.\* (Comment: XXXX)
+
+### Functional Connectivity Features of Resting-State Functional Magnetic Resonance Imaging May Distinguish Migraine From Tension-Type Headache.
+
+*Frontiers in neuroscience*, 16, 851111.
+
+N/A
+
+2022
+
+Wang, Y.#, Wang, Y., Bu, L., Wang, S., [**Xie, X. H.**]{.underline}, Lin, F., & Xiao, Z.\*
+
+### Improved Safety of Hybrid Electroconvulsive Therapy Compared With Standard Electroconvulsive Therapy in Patients With Major Depressive Disorder: A Randomized, Double-Blind, Parallel-Group Pilot Trial.
+
+*Frontiers in psychiatry*, 13, 896018.
+
+N/A
+
+2022
+
+Zhang, J. Y.#, Xu, S. X.#, Zeng, L.#, Chen, L. C., Li, J., Jiang, Z. Y., Tan, B. J., Gu, C. L., Lai, W. T., Kong, X. M., Wang, J., Rong, H., & [**Xie, X. H.*\****]{.underline}
+
+### The integrated understanding of structural and functional connectomes in depression: A multimodal meta-analysis of graph metrics.
+
+*Journal of affective disorders*, 295, 759--770.
+
+N/A
+
+2021
+
+Xu, S. X.#, Deng, W. F.#, Qu, Y. Y.#, Lai, W. T., Huang, T. Y., Rong, H., & [**Xie, X. H.*\****]{.underline}
+
+### The prevalence and independent influencing factors of obesity and underweight in patients with schizophrenia: a multicentre cross-sectional study.
+
+*Eating and weight disorders: EWD*, 26(5), 1365--1374.
+
+N/A
+
+2021
+
+Wang, J.#, Zhang, Y., Yang, Y., Liu, Z., Xia, L., Li, W., Li, Z., [**Xie, X. H.**]{.underline}, Deng, W., Zhang, K., & Liu, H.\*
+
+### Higher prevalence of coronary artery calcification in schizophrenia patients.
+
+*Schizophrenia research*, 231, 47--48.
+
+N/A
+
+2021
+
+Huang, T. Y.#, Deng, W. F.#, Li, X. P., Chen, H. Q., Xu, S. X., Ke, S. H., & [**Xie, X. H.*\****]{.underline}
+
+### The efficacy and acceptability of hybrid electroconvulsive therapy compared with standard electroconvulsive therapy for schizophrenia patients: A parallel-group, double-blind, randomized, controlled trial.
+
+*Brain stimulation*, 14(3), 737--739.
+
+N/A
+
+2021
+
+Li, J.#, Deng, W. F.#, Xu, S. X.#, Jiang, Z. Y., Rong, H., Kong, X. M., & [**Xie, X. H.*\****]{.underline}
+
+### Shotgun metagenomics reveals both taxonomic and tryptophan pathway differences of gut microbiota in bipolar disorder with current major depressive episode patients.
+
+*Journal of affective disorders*, 278, 311--319.
+
+N/A
+
+2021
+
+Lai, W. T.#, Zhao, J.#, Xu, S. X.#, Deng, W. F.#, Xu, D., Wang, M. B., He, F. S., Liu, Y. H., Guo, Y. Y., Ye, S. W., Yang, Q. F., Zhang, Y. L., Wang, S., Li, M. Z., Yang, Y. J., Liu, T. B., Tan, Z. M., [**Xie, X. H.*\****]{.underline}, & Rong, H.\*
+
+### Shotgun metagenomics reveals both taxonomic and tryptophan pathway differences of gut microbiota in major depressive disorder patients.
+
+*Psychological medicine*, 51(1), 90--101.
+
+N/A
+
+2021
+
+Lai, W. T.#, Deng, W. F.#, Xu, S. X.#, Zhao, J., Xu, D., Liu, Y. H., Guo, Y. Y., Wang, M. B., He, F. S., Ye, S. W., Yang, Q. F., Liu, T. B., Zhang, Y. L., Wang, S., Li, M. Z., Yang, Y. J., [**Xie, X. H.*\****]{.underline}, & Rong, H.\*
+
+### 眼脑联动与神经精神疾病[Initiative of eye-brain joint computing in neuropsychiatric disorders].
+
+*中华精神科杂志*,053(006), 546-552.
+
+N/A
+
+2020
+
+[**谢新晖 (Xie, X. H.)\#**]{.underline}, Bang Chen#, 赵一天, 王浩, 徐淑娴, 胡衍, 荣晗*,* 刘江\*
+
+### Short-term effects of air pollution on cause-specific mental disorders in three subtropical Chinese cities.
+
+*Environmental research*, 191, 110214.
+
+N/A
+
+2020
+
+Li, H.#, Zhang, S., Qian, Z. M., [**Xie, X. H.**]{.underline}, Luo, Y., Han, R., Hou, J., Wang, C., McMillin, S. E., Wu, S., Tian, F., Deng, W. F., & Lin, H.\*
+
+### The effect of temperature on cause-specific mental disorders in three subtropical cities: A case-crossover study in China.
+
+*Environment international*, 143, 105938.
+
+N/A
+
+2020
+
+Zhang, S.#, Yang, Y., [**Xie, X. H.**]{.underline}, Li, H., Han, R., Hou, J., Sun, J., Qian, Z. M., Wu, S., Huang, C., Howard, S. W., Tian, F., Deng, W.\*, & Lin, H.\*
+
+### Study protocol for a parallel-group, double-blinded, randomized, controlled, noninferiority trial: the effect and safety of hybrid electroconvulsive therapy (Hybrid-ECT) compared with routine electroconvulsive therapy in patients with depression.
+
+*BMC psychiatry*, 19(1), 344.
+
+N/A
+
+2019
+
+Rong, H.#, Xu, S. X.#, Zeng, J.#, Yang, Y. J., Zhao, J., Lai, W. T., Chen, L. C., Deng, W. F., Zhang, X., Zhang, Y. L., Li, M. Z., Xiao, L., & [**Xie, X. H.*\****]{.underline}
+
+### Low-Charge Electrotherapy in Geriatric Major Depressive Disorder Patients: A Case Series.
+
+*Psychiatry investigation*, 16(6), 464--468.
+
+N/A
+
+2019
+
+Kong, X. M.#, [**Xie, X. H.**]{.underline}, Xu, S. X., Chen, Y., Wang, C., Hong, H., & Sun, Y.\*
+
+### Similarly in depression, nuances of gut microbiota: Evidences from a shotgun metagenomics sequencing study on major depressive disorder versus bipolar disorder with current major depressive episode patients.
+
+*Journal of psychiatric research*, 113, 90--99.
+
+N/A
+
+2019
+
+Rong, H.#, [**Xie, X. H.#**]{.underline}, Zhao, J., Lai, W. T., Wang, M. B., Xu, D., Liu, Y. H., Guo, Y. Y., Xu, S. X., Deng, W. F., Yang, Q. F., Xiao, L., Zhang, Y. L., He, F. S., Wang, S., & Liu, T. B.\*
+
+### Low-charge electrotherapy for patients with schizophrenia: A double-blind, randomised controlled pilot clinical trial.
+
+*Psychiatry research*, 272, 676--681.
+
+N/A
+
+2019
+
+Li, M. Z.#, Chen, L. C.#, Rong, H., Xu, S. X., Li, Y., Yang, Q. F., Deng, W. F., Yang, H. Z., Kong, X. M., Xiao, L., & [**Xie, X. H.*\****]{.underline}
+
+### Electroconvulsive therapy changes the regional resting state function measured by regional homogeneity (ReHo) and amplitude of low frequency fluctuations (ALFF) in elderly major depressive disorder patients: An exploratory study.
+
+*Psychiatry research. Neuroimaging*, 264, 13--21.
+
+N/A
+
+2017
+
+Kong, X. M.#, Xu, S. X.#, Sun, Y., Wang, K. Y., Wang, C., Zhang, J., Xia, J. X., Zhang, L., Tan, B. J., & [**Xie, X. H.*\****]{.underline}
+
+### How does gaze direction affect facial processing in social anxiety? -An ERP study.
+
+*Psychiatry research*, 251, 155--161.
+
+N/A
+
+2017
+
+Li, D.#, Yu, F., Ye, R., Chen, X., [**Xie, X. H.**]{.underline}, Zhu, C., & Wang, K.\*
+
+### Mindfulness-based stress reduction for chronic insomnia in adults older than 75 years: a randomized, controlled, single-blind clinical trial.
+
+*Explore (New York, N.Y.)*, 11(3), 180--185.
+
+N/A
+
+2015
+
+Zhang, J. X.#, Liu, X. H.#, [**Xie, X. H.*\****]{.underline}, Zhao, D., Shan, M. S., Zhang, X. L., Kong, X. M., & Cui, H.\*
+
+### Efficacy and acceptability of atypical antipsychotics for the treatment of post-traumatic stress disorder: a meta-analysis of randomized, double-blind, placebo-controlled clinical trials.
+
+*Psychiatry research*, 219(3), 543--549.
+
+N/A
+
+2014
+
+Liu, X. H.#, [**Xie, X. H.*\****]{.underline}, Wang, K. Y., & Cui, H.\*
+
+### Association of saccade duration and saccade acceleration/deceleration asymmetry during visually guided saccade in schizophrenia patients.
+
+*PloS one*, e97308.
+
+N/A
+
+2014
+
+Cui, H.#, Liu, X. H.#, Wang, K. Y., Zhu, C. Y., Wang, C., & [**Xie, X. H.*\****]{.underline}
+
+### Electroconvulsive therapy on severe obsessive-compulsive disorder comorbid depressive symptoms.
+
+*Psychiatry investigation*, 11(2), 210--213.
+
+N/A
+
+2014
+
+Liu, X.#, Cui, H.#, Wei, Q., Wang, Y., Wang, K., Wang, C., Zhu, C., & [**Xie, X. H.*\****]{.underline}
+
+### 精神分裂症患者在视觉引导眼跳中速度非对称性与眼跳幅度的相关分析. [The correlation between saccade velocity asymmetry and amplitude during visually guided saccade was lower in schizophrenia patients].
+
+*中华精神科杂志*, (5), 5.
+
+N/A
+
+2020
+
+[**谢新晖 (Xie, X. H.)\#**]{.underline}, 刘晓慧, 王晨, 朱春燕, 崔红, & 王克永\*
+
+### Electroconvulsive therapy and Klinefelter syndrome.
+
+*The journal of ECT*, 29(3), e36--e37.
+
+N/A
+
+2013
+
+Wei, Q.#, [**Xie, X. H.#**]{.underline}, Chen, Y., Tian, Y., Wang, H., Wang, K., & Wang, K.\*
