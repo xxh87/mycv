@@ -143,13 +143,13 @@ Xu, S. X.#, [**Xie, X. H.#**]{.underline}, Yao, L., Chen, L. C., Wan, Q., Chen, 
 
 ### Young Adults with Major Depression Show Altered Microbiome.
 
-*Neuroscience*, 522, 23–32. 
+*Neuroscience*, 522, 23--32.
 
 N/A
 
 2023
 
-Chen, M. M.#, Wang, P., [**Xie, X. H.**]{.underline}, Nie, Z., Xu, S. X., Zhang, N., Wang, W., Yao, L., & Liu, Z.\* 
+Chen, M. M.#, Wang, P., [**Xie, X. H.**]{.underline}, Nie, Z., Xu, S. X., Zhang, N., Wang, W., Yao, L., & Liu, Z.\*
 
 ### Nicotinamide ameliorates mitochondria-related neuronal apoptosis and cognitive impairment via the NAD+/SIRT3 pathway.
 
@@ -159,29 +159,27 @@ N/A
 
 2023
 
-Hao, K.#, Chen, F.#, Zhao, L.#, Xu, S., Xiong, Y., Xu, R., [**Xie, X. H.**]{.underline}, Huang, H., Shu, C., Liu, Z., Wang, H.*, & Wang, G.\* 
+Hao, K.#, Chen, F.#, Zhao, L.#, Xu, S., Xiong, Y., Xu, R., [**Xie, X. H.**]{.underline}, Huang, H., Shu, C., Liu, Z., Wang, H.\*, & Wang, G.\*
 
 ### Assessment of brain imaging and cognitive function in a modified rhesus monkey model of depression.
 
-*Behavioural brain research*, 445, 114382.  
+*Behavioural brain research*, 445, 114382.
 
 N/A
 
 2023
 
-Chen, G.#, Ma, S.#, Gong, Q.#, [**Xie, X. H.**]{.underline}, Wu, P., Guo, W., Kang, L., Li, M., Zhang, H., Zhou, E., Zhang, Y., Rong, J., Duan, H., Jin, L., Xu, S., Zhang, N., Sun, S., Li, R., Yao, L., Xiang, D., … Liu, Z.\* 
-
+Chen, G.#, Ma, S.#, Gong, Q.#, [**Xie, X. H.**]{.underline}, Wu, P., Guo, W., Kang, L., Li, M., Zhang, H., Zhou, E., Zhang, Y., Rong, J., Duan, H., Jin, L., Xu, S., Zhang, N., Sun, S., Li, R., Yao, L., Xiang, D., ... Liu, Z.\*
 
 ### Inflammatory bowel disease and the long-term risk of depression: A prospective cohort study of the UK biobank.
 
-*General hospital psychiatry*, 82, 26–32.
+*General hospital psychiatry*, 82, 26--32.
 
 N/A
 
 2023
 
-Ma, S.#, Wang, W., Gong, Q., Xiang, D., Yao, L., Xu, S., [**Xie, X. H.**]{.underline}, Wang, H., Wang, G., Yang, J., & Liu, Z.\* 
-
+Ma, S.#, Wang, W., Gong, Q., Xiang, D., Yao, L., Xu, S., [**Xie, X. H.**]{.underline}, Wang, H., Wang, G., Yang, J., & Liu, Z.\*
 
 ### A Cross-Sectional Study: Structural and Related Functional Connectivity Changes in the Brain: Stigmata of Adverse Parenting in Patients with Major Depressive Disorder?
 
@@ -191,8 +189,7 @@ N/A
 
 2023
 
-Nie, Z., [**Xie, X. H.**]{.underline}, Kang, L., Wang, W., Xu, S., Chen, M., Yao, L., Gong, Q., Zhou, E., Li, M., Wang, H., Bu, L., & Liu, Z.\* 
-
+Nie, Z., [**Xie, X. H.**]{.underline}, Kang, L., Wang, W., Xu, S., Chen, M., Yao, L., Gong, Q., Zhou, E., Li, M., Wang, H., Bu, L., & Liu, Z.\*
 
 ### Hyper-inflammation of Astrocytes in Patients of Major Depressive Disorder: Evidence from Serum Astrocyte-derived Extracellular Vesicles.
 
