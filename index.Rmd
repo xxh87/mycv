@@ -16,8 +16,8 @@ output:
 
 -   <i class="fa fa-envelope"></i> xxh.med\@gmail.com
 -   <i class="fa fa-envelope"></i> xin-hui.xie\@live.com
--   ORCID [0000-0002-3603-3854](https://orcid.org/0000-0002-3603-3854)
--   Google Scholar [Xin-hui Xie](https://scholar.google.com/citations?user=exF-vzUAAAAJ)
+-   ORCID: [0000-0002-3603-3854](https://orcid.org/0000-0002-3603-3854)
+-   Google Scholar: [Xin-hui Xie](https://scholar.google.com/citations?user=exF-vzUAAAAJ)
 
 ## Citation {#citation}
 
@@ -29,13 +29,15 @@ Last updated on `r format(Sys.Date(), "%b %d, %Y")`.
 
 Full experience with study design, and management of clinical trials, such as RCTs.
 
+Experience in leading 2-3 research teams of 10-20 members.
+
 Experienced in clinical statistical analysis, bioinformatics, and design new algorithms.
 
 # Main
 
 ## XIE, Xin-hui {#title}
 
-### Currently searching for an Assistant Professor/Post-doc/Scientist or other scientific positions
+### Currently seeking an Assistant Professor, Postdoctoral Researcher, Scientist, or other scientific position.
 
 XXXXXX
 
@@ -49,17 +51,23 @@ Wuhan, China
 
 2021 - 2024
 
-Thesis: Brain-derived EVs and Psychiatry
+Main research contents**:**
+
+Investigating the status of neuroinflammation and neurogenesis in patients with major depressive disorder (MDD) using plasma/serum astrocyte-derived extracellular vesicles (ADEVs) and neuro-derived EVs (NDEVs), and the changes before and after electroconvulsive therapy (ECT). The advantage of these brain-derived extracellular vesicles (BDEVs) is that they directly reflect the *in vivo* changes in the central nervous system (CNS), and are considered to be "windows to the brain".
+
+Based on the [two-hit hypothesis of depression](https://doi.org/10.1002/wps.20556), I designed a new rat model that has the advantages of stable modeling effect and can better simulate the damage of neural synapses and neurotransmitter pathways such as GABA in patients with depression.
 
 ### Anhui Medical University
 
-M.S. in Psychiatry
+M.S. in Psychiatry.
 
 Hefei, China
 
 2011 - 2014
 
-Thesis: Dysfunction of Visually-Guided-Saccade in Schizophrenia
+Main research contents**:**
+
+Schizophrenia patients have similar basic saccade parameters to healthy controls during visually guided saccade, such as amplitude, duration, latency, and accuracy rate. However, I designed an algorithm called the asymmetric acceleration index (AAI) to compute the asymmetry of saccade acceleration. I found that schizophrenia patients had a significantly lower correlation coefficient (RAD) between AAI and saccade duration than healthy controls ([Cui *et al*., 2014](https://doi.org/10.1371/journal.pone.0097308)).
 
 ### Anhui Medical University
 
@@ -92,9 +100,7 @@ Shenzhen, China
 
 2014 - 2017
 
--   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
--   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
--   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
+-   Residency training program.
 
 ## Publications {data-icon="dna"}
 
@@ -106,15 +112,35 @@ N/A
 
 N/A
 
-### Brain-derived Extracellular Vesicles
+### **ORAL: ISOLATING URINARY ASTROCYTE-DERIVED EXTRACELLULAR VESICLES (UADEVS): A NOVEL HIGH-FREQUENCY AND NON-INVASIVE "LIQUID-BIOPSY" APPROACH TO STUDYING CNS DISEASES**
 
-*Poster for 2023 WPA*
+*The 23rd WPA World Congress of Psychiatry*
 
-N/A
+Vienna, Austria
 
 2023
 
-[**Xie, X. H.#\***]{.underline}, Chen, M.M., Liu, Z.
+[**Xie, X. H.#\***]{.underline}, Chen, M.M., Xu, S.X., Mei, J., Song, X.H., Liu, Z.
+
+### **ORAL: NEUROGENESIS HYPOTHESIS OF DEPRESSION AND ELECTROCONVULSIVE THERAPY (ECT): HUMAN IN VIVO EVIDENCE FROM PLASMA NEURON-DERIVED EXTRACELLULAR VESICLES (NDEVS)**
+
+*The 23rd WPA World Congress of Psychiatry*
+
+Vienna, Austria
+
+2023
+
+[**Xie, X. H.#\***]{.underline}, Xu, S., Yao, L.H., Chen, M.M. Liu, Z.
+
+### **ORAL:MISFORTUNES NEVER COME SINGLY: A NOVEL RAT MODEL OF DEPRESSION BASED ON THEINSOMNIA-INFLAMMATION TWO-HIT HYPOTHESIS**
+
+*The 23rd WPA World Congress of Psychiatry*
+
+Vienna, Austria
+
+2023
+
+Mei, J.#, Song,X.#, [**Xie, X. H.**]{.underline}, Wang, Y. , Wang, G., Chen, C., Xu, S.X., Zhang, H., Chen, G., Liu, Z.\*
 
 ### Trajectories of Efficacy and Cognitive Function During Electroconvulsive Therapy Course in Young Adults with Treatment-Resistant Depression.
 
