@@ -39,7 +39,11 @@ Experienced in clinical statistical analysis, bioinformatics, and design new alg
 
 ### Currently seeking an Assistant Professor, Postdoctoral Researcher, Scientist, or other scientific position.
 
-XXXXXX
+The intricacies of the central nervous system pose challenges in studying neuro-psychiatric disorders. A recent technique involving the enrichment of brain-derived extracellular vesicles (BDEVs) from peripheral blood can provides direct *in vivo* CNS data, bypassing the blood-brain barrier. However, for those rapidly changing CNS disorders like encephalitis, depression, bipolar disorder, and others, the standard biometric sampling frequency (half-yearly or yearly) falls short in capturing molecular signaling trajectories, in line with the Nyquist-Shannon sampling theorem.
+
+In response, I innovated a method to isolate BDEVs from urine. Urinary BDEVs enable non-invasive, frequent *in vivo* CNS signal collection, satisfying Nyquist-Shannon sampling theorem criteria. This advancement facilitates the depiction of intricate paths of CNS-specific molecular signaling linked to these swiftly evolving neuropsychiatric disorders. This, in turn, aids in comprehending disease mechanisms and developing suitable treatment strategies.
+
+Consequently, my aspiration is to secure a suitable position that allows me to delve deeply into neuro-psychiatric disorders using this cutting-edge technique. I am particularly driven to discover novel biological markers, elucidate swift pathological mechanisms, enhance diagnostic strategies, and formulate improved treatment approaches for neuro-psychiatric disorders.
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
