@@ -19,24 +19,23 @@ output:
 -   ORCID [0000-0002-3603-3854](https://orcid.org/0000-0002-3603-3854)
 -   Google Scholar [Xin-hui Xie](https://scholar.google.com/citations?user=exF-vzUAAAAJ)
 
-
 ## Citation {#citation}
-## ![](pics/Citation20230821.png){width="400"} 
-Last updated on `r Sys.Date()`.
+
+## ![](pics/Citation20230821.png){width="400"}
+
+Last updated on `r format(Sys.Date(), "%b %d, %Y")`.
 
 ## Skills
 
-Full experience with experiment design, and management of clinical trials, such as RCTs.
+Full experience with study design, and management of clinical trials, such as RCTs.
 
 Experienced in clinical statistical analysis, bioinformatics, and design new algorithms.
-
-
 
 # Main
 
 ## XIE, Xin-hui {#title}
 
-### Currently searching for an AP/Post-doc/Scientist position
+### Currently searching for an Assistant Professor/Post-doc/Scientist or other scientific positions
 
 XXXXXX
 
@@ -44,7 +43,7 @@ XXXXXX
 
 ### Wuhan University
 
-Ph.D. in Psychiatry
+Ph.D. candidate in Psychiatry
 
 Wuhan, China
 
@@ -72,29 +71,18 @@ Hefei, China
 
 ## Professional Experience {data-icon="landmark"}
 
-### Director (Part-time)
+### Director (Full-time (2017-2021)/Part-time (2021-Now))
 
 Brain Function and Psychosomatic Medicine Institute, Huizhou Mental Health Center (Second People's Hospital of Huizhou)
 
 Huizhou, China
 
-2021 - Now
+2017 - Now
 
--   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
--   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
--   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
-
-### Director (Full-time)
-
-Brain Function and Psychosomatic Medicine Institute, Huizhou Mental Health Center (Second People's Hospital of Huizhou)
-
-Huizhou, China
-
-2017 - 2021
-
--   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
--   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
--   Investigated xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xxxx xxxxxxx xxxx xxxxx.
+-   **Innovative ECT Strategy**: Created Hybrid-ECT, a pioneering approach combining efficacy of standard ECT with reduced cognitive side effects. And further evolved into iHECT, currently in progressive stages.
+-   **Schizophrenia and CAC**: Uncovered increased coronary artery calcium (CAC) in schizophrenia patients through COVID-19 chest CT analysis. Identified potential risk factors including elevated triglycerides and decreased Triiodothyronine (manuscript under review).
+-   **Gut Microbiota in Mood Disorders**: Explored gut microbiota in patients with major depressive or bipolar disorder, highlighting distinctive microbiota patterns and links to the gut microbial tryptophan biosynthesis and metabolism pathway (MiTBamp).
+-   **Additional Research Endeavors**: Engaged in meta-analysis of MRI network topology in depression patients.
 
 ### Psychiatrist
 
