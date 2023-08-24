@@ -158,7 +158,7 @@ N/A
 
 2023
 
-Xu, S. X.#, [**Xie, X. H.#**]{.underline}, Yao, L., Chen, L. C., Wan, Q., Chen, Z. H., & Liu, Z.\* (Comment: XXXX)
+Xu, S. X.#, [**Xie, X. H.#**]{.underline}, Yao, L., Chen, L. C., Wan, Q., Chen, Z. H., & Liu, Z.\* 
 
 ### Young Adults with Major Depression Show Altered Microbiome.
 
@@ -218,7 +218,7 @@ N/A
 
 2023
 
-[**Xie, X. H.#**]{.underline}, Lai, W. T., Xu, S. X., Forti, M. D., Zhang, J. Y., Chen, M. M., Yao, L. H., Wang, P. L., Hao, K. K., & Han, R.\* (Comment: XXXX)
+[**Xie, X. H.#**]{.underline}, Lai, W. T., Xu, S. X., Forti, M. D., Zhang, J. Y., Chen, M. M., Yao, L. H., Wang, P. L., Hao, K. K., & Han, R.\* 
 
 ### Measuring childhood trauma in young adults with depression: A latent profile analysis.
 
@@ -258,7 +258,7 @@ N/A
 
 2022
 
-Xu, S. X.#, [**Xie, X. H.#**]{.underline}, Su, D., & Liu, Z.\* (Comment: XXXX)
+Xu, S. X.#, [**Xie, X. H.#**]{.underline}, Su, D., & Liu, Z.\* 
 
 ### Analysis of Psychological and Gut Microbiome Characteristics in Patients With Non-erosive Reflux Disease.
 
@@ -268,7 +268,7 @@ N/A
 
 2022
 
-Yang, F.#, [**Xie, X. H.#**]{.underline}, Li, X., Liao, H. N., & Zou, B.\* (Comment: XXXX)
+Yang, F.#, [**Xie, X. H.#**]{.underline}, Li, X., Liao, H. N., & Zou, B.\* 
 
 ### Functional Connectivity Features of Resting-State Functional Magnetic Resonance Imaging May Distinguish Migraine From Tension-Type Headache.
 
