@@ -19,7 +19,7 @@ output:
 -   ORCID: [0000-0002-3603-3854](https://orcid.org/0000-0002-3603-3854)
 -   Google Scholar: [Xin-hui Xie](https://scholar.google.com/citations?user=exF-vzUAAAAJ)
 
-## ![](pics/Citation20230821.png){width="400"}
+## ![Citation](pics/Citation.png)
 
 Last updated on `r format(Sys.Date(), "%b %d, %Y")`.
 
@@ -27,7 +27,7 @@ Last updated on `r format(Sys.Date(), "%b %d, %Y")`.
 
 **Study design**: Full experience in trial designing and managing clinical trials, including randomized controlled trials (RCTs).
 
-**Leadership**: Experience in leading and motivating 2-3 research teams of 10-20 members.
+**Leadership**: Experience in leading and motivating 2-3 research teams of about 5-20 members.
 
 **Data analyses**: Experience in conducting clinical statistical analyses. Also proficient in high-throughput omics analysis, such as microbiome, proteomics, transcriptomics, lipidomics, and single-cell genomics.
 
@@ -41,7 +41,7 @@ The complexities of the central nervous system (CNS) present challenges in study
 
 In response, **I devised a novel method for isolating BDEVs from urine. It can facilitate non-invasive and frequent, even semi-daily, collection of *in vivo* CNS signals** (*The 23rd WPA World Congress of Psychiatry, #4041*). With the advantages of BDEVs, this approach has the potential to delineate intricate trajectories of CNS-specific molecular signals at the individual level (*see schematic diagram below*).
 
-![](pics/Screenshot%202023-08-24%20225943.png)
+![Schematic_diagram](pics/schematic diagram.png)
 
 I am motivated to secure a position that will allow me to use my method and other skills and expertise to extensively explore neuro-psychiatric disorders. **I am particularly interested in the following aspects of neuro-psychiatric disorders: uncovering new biological markers, potentially identifying new diseases, elucidating their underlying mechanisms, developing diagnostic tools, and improving treatment strategies**.
 
@@ -158,7 +158,7 @@ N/A
 
 2023
 
-Xu, S. X.#, [**Xie, X. H.#**]{.underline}, Yao, L., Chen, L. C., Wan, Q., Chen, Z. H., & Liu, Z.\* 
+Xu, S. X.#, [**Xie, X. H.#**]{.underline}, Yao, L., Chen, L. C., Wan, Q., Chen, Z. H., & Liu, Z.\*
 
 ### Young Adults with Major Depression Show Altered Microbiome.
 
@@ -218,7 +218,7 @@ N/A
 
 2023
 
-[**Xie, X. H.#**]{.underline}, Lai, W. T., Xu, S. X., Forti, M. D., Zhang, J. Y., Chen, M. M., Yao, L. H., Wang, P. L., Hao, K. K., & Han, R.\* 
+[**Xie, X. H.#**]{.underline}, Lai, W. T., Xu, S. X., Forti, M. D., Zhang, J. Y., Chen, M. M., Yao, L. H., Wang, P. L., Hao, K. K., & Han, R.\*
 
 ### Measuring childhood trauma in young adults with depression: A latent profile analysis.
 
@@ -258,7 +258,7 @@ N/A
 
 2022
 
-Xu, S. X.#, [**Xie, X. H.#**]{.underline}, Su, D., & Liu, Z.\* 
+Xu, S. X.#, [**Xie, X. H.#**]{.underline}, Su, D., & Liu, Z.\*
 
 ### Analysis of Psychological and Gut Microbiome Characteristics in Patients With Non-erosive Reflux Disease.
 
@@ -268,7 +268,7 @@ N/A
 
 2022
 
-Yang, F.#, [**Xie, X. H.#**]{.underline}, Li, X., Liao, H. N., & Zou, B.\* 
+Yang, F.#, [**Xie, X. H.#**]{.underline}, Li, X., Liao, H. N., & Zou, B.\*
 
 ### Functional Connectivity Features of Resting-State Functional Magnetic Resonance Imaging May Distinguish Migraine From Tension-Type Headache.
 
