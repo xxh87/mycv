@@ -37,9 +37,9 @@ Last updated on `r format(Sys.Date(), "%b %d, %Y")`.
 
 ### Currently seeking an Assistant Professor, Postdoctoral Researcher, Scientist, or other scientific position.
 
-The complexities of the central nervous system (CNS) present challenges in studying neuro-psychiatric disorders. **A recent approach that enriches brain-derived extracellular vesicles (BDEVs) from peripheral blood offers direct *in vivo* CNS data, bypassing the blood-brain barrier, like the "[*New windows into the brain*](https://doi.org/10.1016/j.pneurobio.2019.01.005)"**. However, **for rapidly changing CNS disorders,** according to the [Nyquist-Shannon sampling theorem](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem), **the standard frequency of sample collection (semi-annually or annually) is insufficient to capture the detailed trajectories of molecular signals**.
+The complexities of the central nervous system (CNS) present challenges in studying neuro-psychiatric disorders. **A recent approach that enriches brain-derived extracellular vesicles (BDEVs) from peripheral blood offers direct *in vivo* CNS data, bypassing the blood-brain barrier, like the "[*New windows into the brain*](https://doi.org/10.1016/j.pneurobio.2019.01.005)"**. However, **for rapidly changing CNS disorders,** according to the [*Nyquist-Shannon sampling theorem*](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem)*,* **the standard frequency of sample collection (semi-annually or annually) is insufficient to capture the detailed trajectories of molecular signals**.
 
-In response, **I devised a novel method for isolating BDEVs from urine. It can facilitate non-invasive and frequent, even semi-daily, collection of *in vivo* CNS signals (***The 23rd WPA World Congress of Psychiatry, #4041***)**. With the advantages of BDEVs, this approach has the potential to delineate intricate trajectories of CNS-specific molecular signals at the individual level(*see schematic diagram below*).
+In response, **I devised a novel method for isolating BDEVs from urine. It can facilitate non-invasive and frequent, even semi-daily, collection of *in vivo* CNS signals** (*The 23rd WPA World Congress of Psychiatry, #4041*). With the advantages of BDEVs, this approach has the potential to delineate intricate trajectories of CNS-specific molecular signals at the individual level (*see schematic diagram below*).
 
 ![](pics/Screenshot%202023-08-24%20225943.png)
 
@@ -55,9 +55,11 @@ Wuhan, China
 
 2021 - 2024
 
-Main research contents**:**
+Main research contents:
 
-Investigating the status of neuroinflammation and neurogenesis in patients with major depressive disorder (MDD) using plasma/serum astrocyte-derived extracellular vesicles (ADEVs) and neuro-derived EVs (NDEVs), and the changes before and after electroconvulsive therapy (ECT). Developed a method for isolating BDEVs from urine.
+Investigating the status of neuroinflammation and neurogenesis in patients with major depressive disorder (MDD) using plasma/serum astrocyte-derived extracellular vesicles (ADEVs) and neuro-derived EVs (NDEVs), and the changes before and after electroconvulsive therapy (ECT).
+
+Developed a method for isolating BDEVs (ADEVs, NDEVs, and oligodendrocyte-derived EVs) from urine.
 
 Based on the [two-hit hypothesis of depression](https://doi.org/10.1002/wps.20556), I designed a new rat model that has the advantages of stable modeling effect and can better simulate the damage of neural synapses and neurotransmitter pathways such as GABA in patients with depression.
 
@@ -69,9 +71,9 @@ Hefei, China
 
 2011 - 2014
 
-Main research contents**:**
+Main research contents:
 
-I designed an algorithm called the asymmetric acceleration index (AAI) to compute the asymmetry of saccade acceleration. I found that schizophrenia patients had a significantly lower correlation coefficient (RAD) between AAI and saccade duration than healthy controls ([*Cui et al., 2014*](https://doi.org/10.1371/journal.pone.0097308)).
+I designed an algorithm termed the asymmetric acceleration index (AAI) to compute the asymmetry of saccade acceleration. I found that schizophrenia patients had a significantly lower correlation coefficient (RAD) between AAI and saccade duration than healthy controls ([*Cui et al., 2014*](https://doi.org/10.1371/journal.pone.0097308)).
 
 ### Anhui Medical University
 
@@ -90,6 +92,8 @@ Brain Function and Psychosomatic Medicine Institute, Huizhou Mental Health Cente
 Huizhou, China
 
 2017 - Now
+
+Main research contents:
 
 -   **Designed a novel but simple ECT Strategy**: Termed Hybrid-ECT ([*Rong et al., 2019*]((https://doi.org/10.1186/s12888-019-2320-3))), a pioneering approach combining efficacy of standard ECT with reduced cognitive side effects ([*Li et al., 2021*](https://doi.org/10.1016/j.brs.2021.04.017); [*Zhang et al., 2022*](https://doi.org/10.3389/fpsyt.2022.896018)). And further evolved into i-HECT, currently in progress.
 -   **Schizophrenia and CAC**: Uncovered increased coronary artery calcium (CAC) in schizophrenia patients through COVID-19 chest CT analysis ([*Huang et al., 2021*](https://doi.org/10.1016/j.schres.2021.03.002)). Identified potential risk factors including elevated triglycerides and decreased Triiodothyronine (manuscript under review).
