@@ -19,19 +19,17 @@ output:
 -   ORCID: [0000-0002-3603-3854](https://orcid.org/0000-0002-3603-3854)
 -   Google Scholar: [Xin-hui Xie](https://scholar.google.com/citations?user=exF-vzUAAAAJ)
 
-## Citation {#citation}
-
 ## ![](pics/Citation20230821.png){width="400"}
 
 Last updated on `r format(Sys.Date(), "%b %d, %Y")`.
 
 ## Skills
 
-Full experience with study design, and management of clinical trials, such as RCTs.
+**Study design**: Full experience in trial designing and managing clinical trials, including randomized controlled trials (RCTs).
 
-Experience in leading 2-3 research teams of 10-20 members.
+**Leadership**: Experience in leading and motivating 2-3 research teams of 10-20 members.
 
-Experienced in clinical statistical analysis, bioinformatics, and design new algorithms.
+**Data analyses**: Experience in conducting clinical statistical analyses. Also proficient in high-throughput omics analysis, such as microbiome, proteomics, transcriptomics, lipidomics, and single-cell genomics.
 
 # Main
 
@@ -39,11 +37,13 @@ Experienced in clinical statistical analysis, bioinformatics, and design new alg
 
 ### Currently seeking an Assistant Professor, Postdoctoral Researcher, Scientist, or other scientific position.
 
-The intricacies of the central nervous system pose challenges in studying neuro-psychiatric disorders. A recent technique involving the enrichment of brain-derived extracellular vesicles (BDEVs) from peripheral blood can provides direct *in vivo* CNS data, bypassing the blood-brain barrier. However, for those rapidly changing CNS disorders like encephalitis, depression, bipolar disorder, and others, the standard biometric sampling frequency (half-yearly or yearly) falls short in capturing molecular signaling trajectories, in line with the Nyquist-Shannon sampling theorem.
+The complexities of the central nervous system (CNS) present challenges in studying neuro-psychiatric disorders. **A recent approach that enriches brain-derived extracellular vesicles (BDEVs) from peripheral blood offers direct *in vivo* CNS data, bypassing the blood-brain barrier, like the "[*New windows into the brain*](https://doi.org/10.1016/j.pneurobio.2019.01.005)"**. However, **for rapidly changing CNS disorders,** according to the [Nyquist-Shannon sampling theorem](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem), **the standard frequency of sample collection (semi-annually or annually) is insufficient to capture the detailed trajectories of molecular signals**.
 
-In response, I innovated a method to isolate BDEVs from urine. Urinary BDEVs enable non-invasive, frequent *in vivo* CNS signal collection, satisfying Nyquist-Shannon sampling theorem criteria. This advancement facilitates the depiction of intricate paths of CNS-specific molecular signaling linked to these swiftly evolving neuropsychiatric disorders. This, in turn, aids in comprehending disease mechanisms and developing suitable treatment strategies.
+In response, **I devised a novel method for isolating BDEVs from urine. It can facilitate non-invasive and frequent, even semi-daily, collection of *in vivo* CNS signals (***The 23rd WPA World Congress of Psychiatry, #4041***)**. With the advantages of BDEVs, this approach has the potential to delineate intricate trajectories of CNS-specific molecular signals at the individual level(*see schematic diagram below*).
 
-Consequently, my aspiration is to secure a suitable position that allows me to delve deeply into neuro-psychiatric disorders using this cutting-edge technique. I am particularly driven to discover novel biological markers, elucidate swift pathological mechanisms, enhance diagnostic strategies, and formulate improved treatment approaches for neuro-psychiatric disorders.
+![](pics/Screenshot%202023-08-24%20225943.png)
+
+I am motivated to secure a position that will allow me to use my method and other skills and expertise to extensively explore neuro-psychiatric disorders. **I am particularly interested in the following aspects of neuro-psychiatric disorders: uncovering new biological markers, potentially identifying new diseases, elucidating their underlying mechanisms, developing diagnostic tools, and improving treatment strategies**.
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
@@ -57,7 +57,7 @@ Wuhan, China
 
 Main research contents**:**
 
-Investigating the status of neuroinflammation and neurogenesis in patients with major depressive disorder (MDD) using plasma/serum astrocyte-derived extracellular vesicles (ADEVs) and neuro-derived EVs (NDEVs), and the changes before and after electroconvulsive therapy (ECT). The advantage of these brain-derived extracellular vesicles (BDEVs) is that they directly reflect the *in vivo* changes in the central nervous system (CNS), and are considered to be "windows to the brain".
+Investigating the status of neuroinflammation and neurogenesis in patients with major depressive disorder (MDD) using plasma/serum astrocyte-derived extracellular vesicles (ADEVs) and neuro-derived EVs (NDEVs), and the changes before and after electroconvulsive therapy (ECT). Developed a method for isolating BDEVs from urine.
 
 Based on the [two-hit hypothesis of depression](https://doi.org/10.1002/wps.20556), I designed a new rat model that has the advantages of stable modeling effect and can better simulate the damage of neural synapses and neurotransmitter pathways such as GABA in patients with depression.
 
@@ -71,7 +71,7 @@ Hefei, China
 
 Main research contents**:**
 
-Schizophrenia patients have similar basic saccade parameters to healthy controls during visually guided saccade, such as amplitude, duration, latency, and accuracy rate. However, I designed an algorithm called the asymmetric acceleration index (AAI) to compute the asymmetry of saccade acceleration. I found that schizophrenia patients had a significantly lower correlation coefficient (RAD) between AAI and saccade duration than healthy controls ([Cui *et al*., 2014](https://doi.org/10.1371/journal.pone.0097308)).
+I designed an algorithm called the asymmetric acceleration index (AAI) to compute the asymmetry of saccade acceleration. I found that schizophrenia patients had a significantly lower correlation coefficient (RAD) between AAI and saccade duration than healthy controls ([*Cui et al., 2014*](https://doi.org/10.1371/journal.pone.0097308)).
 
 ### Anhui Medical University
 
@@ -91,14 +91,14 @@ Huizhou, China
 
 2017 - Now
 
--   **Innovative ECT Strategy**: Created Hybrid-ECT, a pioneering approach combining efficacy of standard ECT with reduced cognitive side effects. And further evolved into iHECT, currently in progressive stages.
--   **Schizophrenia and CAC**: Uncovered increased coronary artery calcium (CAC) in schizophrenia patients through COVID-19 chest CT analysis. Identified potential risk factors including elevated triglycerides and decreased Triiodothyronine (manuscript under review).
--   **Gut Microbiota in Mood Disorders**: Explored gut microbiota in patients with major depressive or bipolar disorder, highlighting distinctive microbiota patterns and links to the gut microbial tryptophan biosynthesis and metabolism pathway (MiTBamp).
--   **Additional Research Endeavors**: Engaged in meta-analysis of MRI network topology in depression patients.
+-   **Designed a novel but simple ECT Strategy**: Termed Hybrid-ECT ([*Rong et al., 2019*]((https://doi.org/10.1186/s12888-019-2320-3))), a pioneering approach combining efficacy of standard ECT with reduced cognitive side effects ([*Li et al., 2021*](https://doi.org/10.1016/j.brs.2021.04.017); [*Zhang et al., 2022*](https://doi.org/10.3389/fpsyt.2022.896018)). And further evolved into i-HECT, currently in progress.
+-   **Schizophrenia and CAC**: Uncovered increased coronary artery calcium (CAC) in schizophrenia patients through COVID-19 chest CT analysis ([*Huang et al., 2021*](https://doi.org/10.1016/j.schres.2021.03.002)). Identified potential risk factors including elevated triglycerides and decreased Triiodothyronine (manuscript under review).
+-   **Gut Microbiota in Mood Disorders**: Explored gut microbiota in patients with major depressive or bipolar disorder, highlighting distinctive microbiota patterns and links to the gut microbial tryptophan biosynthesis and metabolism pathway (MiTBamp)([*Rong et al., 2019*](https://doi.org/10.1016/j.jpsychires.2019.03.017); *Lai et al., 2021 [a](https://doi.org/10.1017/s0033291719003027) & [b](https://doi.org/10.1016/j.jad.2020.09.010)*).
+-   **Additional Research Endeavors**: Engaged in meta-analysis of MRI network topology in depression patients ([*Xu et al., 2021*](https://doi.org/10.1016/j.jad.2021.08.120)).
 
-### Psychiatrist
+### Resident Psychiatrist
 
-Department of Psychiatry, Shenzhen Mental Health Center (Shenzhen Kangning Hospital)
+Shenzhen Mental Health Center (Shenzhen Kangning Hospital)
 
 Shenzhen, China
 
