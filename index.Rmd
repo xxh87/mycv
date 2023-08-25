@@ -39,11 +39,11 @@ Last updated on `r format(Sys.Date(), "%b %d, %Y")`.
 
 The complexities of the central nervous system (CNS) present challenges in studying neuro-psychiatric disorders. **A recent approach that enriches brain-derived extracellular vesicles (BDEVs) from peripheral blood offers direct *in vivo* CNS data, bypassing the blood-brain barrier, like the "[*New windows into the brain*](https://doi.org/10.1016/j.pneurobio.2019.01.005)"**. However, **for rapidly changing CNS disorders,** according to the [*Nyquist-Shannon sampling theorem*](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem)*,* **the standard frequency of sample collection (semi-annually or annually) is insufficient to capture the detailed trajectories of molecular signals**.
 
-In response, **I devised a novel method for isolating BDEVs from urine. It can facilitate non-invasive and frequent, even semi-daily, collection of *in vivo* CNS signals** (*The 23rd WPA World Congress of Psychiatry, #4041*). With the advantages of BDEVs, this approach has the potential to delineate intricate trajectories of CNS-specific molecular signals at the individual level (*see schematic diagram below*).
+In response, **I devised a novel method for isolating BDEVs from urine. It can facilitate non-invasive and frequent, even semi-daily, collection of *in vivo* CNS signals** (*The 23rd WPA World Congress of Psychiatry, #4041*). With the advantages of BDEVs, this **urinary BDEV (uBDEV) approach has the potential to delineate intricate trajectories of CNS-specific molecular signals at the individual level** (*see schematic diagram below*). In my opinion, it means that for CNS diseases, especially those that change rapidly, there is now an entire new set of tools available for research.
 
-![Schematic_diagram](pics/schematic diagram.png)
+![](pics/schematic diagram.png)
 
-I am motivated to secure a position that will allow me to use my method and other skills and expertise to extensively explore neuro-psychiatric disorders. **I am particularly interested in the following aspects of neuro-psychiatric disorders: uncovering new biological markers, potentially identifying new diseases, elucidating their underlying mechanisms, developing diagnostic tools, and improving treatment strategies**.
+As I will obtain a Ph.D. degree in 2024, I am now motivated to secure a position that will allow me to use my method and other skills and expertise to extensively explore neuro-psychiatric disorders. **I am particularly interested in the following aspects of neuro-psychiatric disorders: uncovering new biological markers, potentially identifying new diseases, elucidating their underlying mechanisms, developing diagnostic tools, and improving treatment strategies**.
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
