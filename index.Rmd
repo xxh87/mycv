@@ -37,11 +37,11 @@ Last updated on `r format(Sys.Date(), "%b %d, %Y")`.
 
 ### Currently seeking an Assistant Professor, Postdoctoral Researcher, Scientist, or other scientific position.
 
-The complexities of the central nervous system (CNS) present challenges in studying neuro-psychiatric disorders. **A recent approach that enriches brain-derived extracellular vesicles (BDEVs) from peripheral blood offers direct *in vivo* CNS data, bypassing the blood-brain barrier, like the "[*New windows into the brain*](https://doi.org/10.1016/j.pneurobio.2019.01.005)"**. However, **for rapidly changing CNS disorders,** according to the [*Nyquist-Shannon sampling theorem*](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem)*,* **the standard frequency of sample collection (semi-annually or annually) is insufficient to capture the detailed trajectories of molecular signals**.
+The complexities of the central nervous system (CNS) present challenges in studying neuro-psychiatric disorders. **A recent approach that enriches brain-derived extracellular vesicles (BDEVs) from peripheral blood offers direct *in vivo* CNS data, bypassing the blood-brain barrier, like the "[*New windows into the brain*](https://doi.org/10.1016/j.pneurobio.2019.01.005)"**. However, **for rapidly changing CNS disorders,** according to the [*Nyquist-Shannon sampling theorem*](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem)*,* **the routine frequency of sample collection (semi-annually or annually) is insufficient to capture the detailed trajectories of molecular signals**, and clearly, daily sampling of blood or cerebrospinal fluid from subjects is out of the question.
 
-In response, **I devised a novel method for isolating BDEVs from urine. It can facilitate non-invasive and frequent, even semi-daily, collection of *in vivo* CNS signals** (*The 23rd WPA World Congress of Psychiatry, #4041*). With the advantages of BDEVs, this **urinary BDEV (uBDEV) approach has the potential to delineate intricate trajectories of CNS-specific molecular signals at the individual level** (*see schematic diagram below*). In my opinion, it means that for CNS diseases, especially those that change rapidly, there is now an entire new set of tools available for research.
+In response, **I innovated a novel method for isolating BDEVs from urine. It can facilitate non-invasive and frequent, even semi-daily, collection of *in vivo* CNS signals** (*The 23rd WPA World Congress of Psychiatry, #4041*). With the advantages of BDEVs, this **urinary BDEV (uBDEV) approach has the potential to delineate intricate trajectories of CNS-specific molecular signals at the individual level** (*see schematic diagram below*). In my opinion, it means that for CNS diseases, especially those that change rapidly, there is now an entire new set of tools available for research.
 
-![](pics/schematic diagram.png)
+![](pics/schematic%20diagram.png)
 
 As I will obtain a Ph.D. degree in 2024, I am now motivated to secure a position that will allow me to use my method and other skills and expertise to extensively explore neuro-psychiatric disorders. **I am particularly interested in the following aspects of neuro-psychiatric disorders: uncovering new biological markers, potentially identifying new diseases, elucidating their underlying mechanisms, developing diagnostic tools, and improving treatment strategies**.
 
@@ -59,9 +59,9 @@ Main research contents:
 
 Investigating the status of neuroinflammation and neurogenesis in patients with major depressive disorder (MDD) using plasma/serum astrocyte-derived extracellular vesicles (ADEVs) and neuro-derived EVs (NDEVs), and the changes before and after electroconvulsive therapy (ECT).
 
-Developed a method for isolating BDEVs (ADEVs, NDEVs, and oligodendrocyte-derived EVs) from urine.
+Innovated a method for isolating BDEVs (ADEVs, NDEVs, and oligodendrocyte-derived EVs) from urine.
 
-Based on the [two-hit hypothesis of depression](https://doi.org/10.1002/wps.20556), I designed a new rat model that has the advantages of stable modeling effect and can better simulate the damage of neural synapses and neurotransmitter pathways such as GABA in patients with depression.
+Based on the [two-hit hypothesis of depression](https://doi.org/10.1002/wps.20556), I developed a new rat model that has the advantages of stable modeling effect and can better simulate the damage of neural synapses and neurotransmitter pathways such as GABA in patients with depression.
 
 ### Anhui Medical University
 
@@ -95,10 +95,10 @@ Huizhou, China
 
 Main research contents:
 
--   **Designed a novel but simple ECT Strategy**: Termed Hybrid-ECT ([*Rong et al., 2019*]((https://doi.org/10.1186/s12888-019-2320-3))), a pioneering approach combining efficacy of standard ECT with reduced cognitive side effects ([*Li et al., 2021*](https://doi.org/10.1016/j.brs.2021.04.017); [*Zhang et al., 2022*](https://doi.org/10.3389/fpsyt.2022.896018)). And further evolved into i-HECT, currently in progress.
+-   **Improved electroconvulsive therapy (ECT) with similar efficacy but reduced side effects**: Hybrid-ECT ([*Rong et al., 2019*]((https://doi.org/10.1186/s12888-019-2320-3))), a pioneering approach combining efficacy of standard ECT with reduced cognitive side effects ([*Li et al., 2021*](https://doi.org/10.1016/j.brs.2021.04.017); [*Zhang et al., 2022*](https://doi.org/10.3389/fpsyt.2022.896018)). And further evolved into i-HECT, currently in progress.
 -   **Schizophrenia and CAC**: Uncovered increased coronary artery calcium (CAC) in schizophrenia patients through COVID-19 chest CT analysis ([*Huang et al., 2021*](https://doi.org/10.1016/j.schres.2021.03.002)). Identified potential risk factors including elevated triglycerides and decreased Triiodothyronine (manuscript under review).
 -   **Gut Microbiota in Mood Disorders**: Explored gut microbiota in patients with major depressive or bipolar disorder, highlighting distinctive microbiota patterns and links to the gut microbial tryptophan biosynthesis and metabolism pathway (MiTBamp)([*Rong et al., 2019*](https://doi.org/10.1016/j.jpsychires.2019.03.017); *Lai et al., 2021 [a](https://doi.org/10.1017/s0033291719003027) & [b](https://doi.org/10.1016/j.jad.2020.09.010)*).
--   **Additional Research Endeavors**: Engaged in meta-analysis of MRI network topology in depression patients ([*Xu et al., 2021*](https://doi.org/10.1016/j.jad.2021.08.120)).
+-   **Additional Research Endeavors**: Conducted a meta-analysis of MRI network topology in depression patients. ([*Xu et al., 2021*](https://doi.org/10.1016/j.jad.2021.08.120)).
 
 ### Resident Psychiatrist
 
