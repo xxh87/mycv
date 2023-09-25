@@ -6,7 +6,7 @@ format:
 
 # [XIE, Xin-hui (谢新晖)]{style="color: navy"}
 
-#### Currently seeking an *Assistant Professor*, *Postdoctoral Researcher*, *Scientist*, or other *scientific position*.
+#### **Seeking scientific positions in academia or industry, including Assistant Professor, Postdoctoral Researcher, and Research Team Leader.**
 
 +-------------------------------------------------------------------------------------------+------------------------------------:+
 | ## [Contact Information]{style="color: #990000"}                                          | ![](pics/Citation.png){width="280"} |
@@ -24,7 +24,7 @@ format:
 
 ## [Motivations]{style="color: #990000"}
 
-**Finding reliable biological markers for neuropsychiatric disorders is the "Holy Grail" of this field.** To date, the most successful example may be the significance of Aβ for Alzheimer's disease (AD). The discovery of Aβ has been significant for research on AD, whether in terms of etiology, diagnosis, or treatment.
+**Finding reliable biological markers for neuro-psychiatric disorders is the "Holy Grail" of this field.** To date, the most successful example may be the significance of Aβ for Alzheimer's disease (AD). The discovery of Aβ has been significant for research on AD, whether in terms of etiology, diagnosis, or treatment.
 
 Unfortunately, the process of finding biomarkers, especially individual-level biomarkers, for some other central nervous system (CNS) diseases has not been as successful. **In my opinion, this may be due to the constraints of a basic law of signal theory**---**the** [***Nyquist-Shannon sampling theorem***](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem)***.*** It requires a sampling frequency twice the highest frequency of the signal to uniquely recover the original signal.
 
@@ -42,7 +42,7 @@ Further, I realized that these BDEVs can enter the peripheral blood and may also
 
 **In my opinion, this method will be a game changer, and the high-frequency sampling may become a standard protocol in the field of research on rapidly changing CNS diseases.**
 
-As **I will obtain a Ph.D. degree in 2024**, and so many questions remain in this field. I am now motivated to secure a position that will allow me to use my method and other skills to extensively explore neuro-psychiatric disorders. **I am particularly interested in the following aspects of CNS diseases: uncovering new biomarkers, potentially identifying new diseases, elucidating their underlying mechanisms, developing diagnostic tools, and improving treatment strategies**.
+**I will obtain a Ph.D. degree in 2024**. As so many questions remain in this field, I am now motivated to secure a position that will allow me to use my method and other skills to extensively explore neuro-psychiatric disorders. **I am particularly interested in the following aspects of CNS diseases: uncovering new biomarkers, potentially identifying new diseases, elucidating their underlying mechanisms, developing diagnostic tools, and improving treatment strategies**.
 
 ## [Skills]{style="color: #990000"}
 
@@ -176,7 +176,7 @@ As **I will obtain a Ph.D. degree in 2024**, and so many questions remain in thi
 
 <!-- -->
 
-19. Huang, T. Y.#, Deng, W. F.#, Li, X. P., Chen, H. Q., Xu, S. X., Ke, S. H., & [[**Xie, X. H.*\****]{.underline} ]{style="color: #990000"}(2021). **Higher prevalence of coronary artery calcification in schizophrenia patients.** *Schizophrenia research*, 231, 47--48. [DOI](https://doi.org/10.1016/j.schres.2021.03.002) [PMID](https://pubmed.ncbi.nlm.nih.gov/33752106/) [(Role: Conceptualization, Methodology, Writing - Original Draft)]{style="color: #3399ff"}
+19. Huang, T. Y.#, Deng, W. F.#, Li, X. P., Chen, H. Q., Xu, S. X., Ke, S. H., & [[**Xie, X. H.*\****]{.underline}]{style="color: #990000"}(2021). **Higher prevalence of coronary artery calcification in schizophrenia patients.** *Schizophrenia research*, 231, 47--48. [DOI](https://doi.org/10.1016/j.schres.2021.03.002) [PMID](https://pubmed.ncbi.nlm.nih.gov/33752106/) [(Role: Conceptualization, Methodology, Writing - Original Draft)]{style="color: #3399ff"}
 
 <!-- -->
 
@@ -204,7 +204,7 @@ As **I will obtain a Ph.D. degree in 2024**, and so many questions remain in thi
 
 <!-- -->
 
-12. Rong, H.#, Xu, S. X.#, Zeng, J.#, Yang, Y. J., Zhao, J., Lai, W. T., Chen, L. C., Deng, W. F., Zhang, X., Zhang, Y. L., Li, M. Z., Xiao, L., & [[**Xie, X. H.*\****]{.underline} ]{style="color: #990000"}(2019). **Study protocol for a parallel-group, double-blinded, randomized, controlled, noninferiority trial: the effect and safety of hybrid electroconvulsive therapy (Hybrid-ECT) compared with routine electroconvulsive therapy in patients with depression.** *BMC psychiatry*, 19(1), 344. [DOI](https://doi.org/10.1186/s12888-019-2320-3) [PMID](https://pubmed.ncbi.nlm.nih.gov/31694611/) [(Role: Conceptualization, Methodology, Writing - Original Draft, Writing - Review & Editing, Supervision, Funding acquisition)]{style="color: #3399ff"}
+12. Rong, H.#, Xu, S. X.#, Zeng, J.#, Yang, Y. J., Zhao, J., Lai, W. T., Chen, L. C., Deng, W. F., Zhang, X., Zhang, Y. L., Li, M. Z., Xiao, L., & [[**Xie, X. H.*\****]{.underline}]{style="color: #990000"}(2019). **Study protocol for a parallel-group, double-blinded, randomized, controlled, noninferiority trial: the effect and safety of hybrid electroconvulsive therapy (Hybrid-ECT) compared with routine electroconvulsive therapy in patients with depression.** *BMC psychiatry*, 19(1), 344. [DOI](https://doi.org/10.1186/s12888-019-2320-3) [PMID](https://pubmed.ncbi.nlm.nih.gov/31694611/) [(Role: Conceptualization, Methodology, Writing - Original Draft, Writing - Review & Editing, Supervision, Funding acquisition)]{style="color: #3399ff"}
 
 <!-- -->
 
@@ -216,11 +216,11 @@ As **I will obtain a Ph.D. degree in 2024**, and so many questions remain in thi
 
 <!-- -->
 
-9.  Li, M. Z.#, Chen, L. C.#, Rong, H., Xu, S. X., Li, Y., Yang, Q. F., Deng, W. F., Yang, H. Z., Kong, X. M., Xiao, L., & [[**Xie, X. H.*\****]{.underline} ]{style="color: #990000"}(2019). Low-charge electrotherapy for patients with schizophrenia: A double-blind, randomised controlled pilot clinical trial. *Psychiatry research*, 272, 676--681. [DOI](https://doi.org/10.1016/j.psychres.2018.12.143) [PMID](https://pubmed.ncbi.nlm.nih.gov/30616140/) [(Role: Conceptualization, Methodology, Writing - Original Draft, Writing - Review & Editing, Supervision, Funding acquisition)]{style="color: #3399ff"}
+9.  Li, M. Z.#, Chen, L. C.#, Rong, H., Xu, S. X., Li, Y., Yang, Q. F., Deng, W. F., Yang, H. Z., Kong, X. M., Xiao, L., & [[**Xie, X. H.*\****]{.underline}]{style="color: #990000"}(2019). Low-charge electrotherapy for patients with schizophrenia: A double-blind, randomised controlled pilot clinical trial. *Psychiatry research*, 272, 676--681. [DOI](https://doi.org/10.1016/j.psychres.2018.12.143) [PMID](https://pubmed.ncbi.nlm.nih.gov/30616140/) [(Role: Conceptualization, Methodology, Writing - Original Draft, Writing - Review & Editing, Supervision, Funding acquisition)]{style="color: #3399ff"}
 
 <!-- -->
 
-8.  Kong, X. M.#, Xu, S. X.#, Sun, Y., Wang, K. Y., Wang, C., Zhang, J., Xia, J. X., Zhang, L., Tan, B. J., & [[**Xie, X. H.*\****]{.underline} ]{style="color: #990000"}(2017). Electroconvulsive therapy changes the regional resting state function measured by regional homogeneity (ReHo) and amplitude of low frequency fluctuations (ALFF) in elderly major depressive disorder patients: An exploratory study. *Psychiatry research. Neuroimaging*, 264, 13--21. [DOI](https://doi.org/10.1016/j.pscychresns.2017.04.001) [PMID](https://pubmed.ncbi.nlm.nih.gov/28412557/) [(Role: Conceptualization, Methodology, Formal analysis, Writing - Original Draft, Writing - Review & Editing)]{style="color: #3399ff"}
+8.  Kong, X. M.#, Xu, S. X.#, Sun, Y., Wang, K. Y., Wang, C., Zhang, J., Xia, J. X., Zhang, L., Tan, B. J., & [[**Xie, X. H.*\****]{.underline}]{style="color: #990000"}(2017). Electroconvulsive therapy changes the regional resting state function measured by regional homogeneity (ReHo) and amplitude of low frequency fluctuations (ALFF) in elderly major depressive disorder patients: An exploratory study. *Psychiatry research. Neuroimaging*, 264, 13--21. [DOI](https://doi.org/10.1016/j.pscychresns.2017.04.001) [PMID](https://pubmed.ncbi.nlm.nih.gov/28412557/) [(Role: Conceptualization, Methodology, Formal analysis, Writing - Original Draft, Writing - Review & Editing)]{style="color: #3399ff"}
 
 <!-- -->
 
@@ -240,7 +240,7 @@ As **I will obtain a Ph.D. degree in 2024**, and so many questions remain in thi
 
 <!-- -->
 
-3.  Liu, X.#, Cui, H.#, Wei, Q., Wang, Y., Wang, K., Wang, C., Zhu, C., & [[**Xie, X. H.*\****]{.underline} ]{style="color: #990000"}(2014). Electroconvulsive therapy on severe obsessive-compulsive disorder comorbid depressive symptoms. *Psychiatry investigation*, 11(2), 210--213. [DOI](https://doi.org/10.4306/pi.2014.11.2.210) [PMID](https://pubmed.ncbi.nlm.nih.gov/24843380/) [(Role: Conceptualization, Investigation, Writing - Original Draft, Writing - Review & Editing)]{style="color: #3399ff"}
+3.  Liu, X.#, Cui, H.#, Wei, Q., Wang, Y., Wang, K., Wang, C., Zhu, C., & [[**Xie, X. H.*\****]{.underline}]{style="color: #990000"}(2014). Electroconvulsive therapy on severe obsessive-compulsive disorder comorbid depressive symptoms. *Psychiatry investigation*, 11(2), 210--213. [DOI](https://doi.org/10.4306/pi.2014.11.2.210) [PMID](https://pubmed.ncbi.nlm.nih.gov/24843380/) [(Role: Conceptualization, Investigation, Writing - Original Draft, Writing - Review & Editing)]{style="color: #3399ff"}
 
 <!-- -->
 
