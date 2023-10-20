@@ -4,7 +4,7 @@ format:
     embed-resources: true
 ---
 
-# [XIE, Xin-hui (谢新晖)]{style="color: navy"}
+# [XIE, Xin-hui (謝新暉)]{style="color: navy"}
 
 #### **Seeking scientific positions in academia or industry, including Assistant Professor, Postdoctoral Researcher, and Research Team Leader.**
 
@@ -19,7 +19,7 @@ format:
 |                                                                                           |                                     |
 | -   Google Scholar: [Xin-hui Xie](https://scholar.google.com/citations?user=exF-vzUAAAAJ) |                                     |
 |                                                                                           |                                     |
-|     Last updated on Sep-21-2023.                                                          |                                     |
+|     Last updated on Oct-20-2023.                                                          |                                     |
 +-------------------------------------------------------------------------------------------+-------------------------------------+
 
 ## [Motivations]{style="color: #990000"}
@@ -36,9 +36,21 @@ However, **for rapidly changing CNS diseases** (*e.g.*, weeks or even days), dai
 
 A recent approach that enriches **brain-derived extracellular vesicles (BDEVs) from peripheral blood offers direct *in vivo* CNS data, bypassing the blood-brain barrier, like the "[*New windows into the brain*](https://doi.org/10.1016/j.pneurobio.2019.01.005)"**.
 
-Further, I realized that these BDEVs can enter the peripheral blood and may also enter the urine. Therefore, **I innovated a novel method for isolating BDEVs from urine (uBDEV)** *(First report at the 23rd WCP, #4041)***. This method allows for non-invasive and frequent, even semi-daily, collection of *in vivo* CNS signals**, which is **like taking movies instead of photos of the CNS**. Hence, it has the potential to delineate intricate trajectories of CNS-specific molecular signals at the individual-level, as shown in the schematic diagram below.
+Further, I realized that these BDEVs can enter the peripheral blood and may also enter the urine. Therefore, **I innovated a novel method for isolating BDEVs from urine (uBDEV)** *(First report at the 23rd WCP, #4041)***. This method allows for non-invasive and frequent, even semi-daily, collection of *in vivo* CNS signals**, which is **like taking movies instead of photos of the CNS**. Hence, it has the potential to delineate intricate trajectories of CNS-specific molecular signals at the individual-level（please see figures below, the urinary astrocyte-derived EVs (uADEVs) were used as an example).
 
 ![](pics/schematic%20diagram.png){fig-align="center"}
+
+<div>
+
+[(*Figure legends:*]{style="color: #666666"}
+
+[*Fig. 1: A) Isolation schematic diagram; B and C) The uADEVs exhibited typical shape of small EVs; D) Three EV markers (Alix, CD81, and CD9) and an astrocyte marker (GFAP) were present in the ADEVs sample, while a kidney marker (NKCC2) was absent. E) Four astrocyte-related neurotrophic factors have significantly increased in uADEVs.*]{style="color: #666666"}
+
+[*Fig. 2: Preliminary data from an encephalitis patient showed the IL-1β concentrations in cerebro-spinal fluid (CSF) and uADEVs.*]{style="color: #666666"}
+
+[*Fig. 3: The uBDEV approach could delineate detailed trajectories of specific molecular signals in CNS at the individual level.*)]{style="color: #666666"}
+
+</div>
 
 **In my opinion, this method will be a game changer, and the high-frequency sampling may become a standard protocol in the field of research on rapidly changing CNS diseases.**
 
@@ -80,7 +92,7 @@ Further, I realized that these BDEVs can enter the peripheral blood and may also
 -   **Director** (Full-time (2017-2021)).
 -   Main research contents:
     -   **New ECT strategy:** Improved ECT with similar efficacy but reduced side effects: Hybrid-ECT ([*Rong et al., 2019*]((https://doi.org/10.1186/s12888-019-2320-3))), a pioneering approach combining efficacy of standard ECT with reduced cognitive side effects ([*Li et al., 2021*](https://doi.org/10.1016/j.brs.2021.04.017); [*Zhang et al., 2022*](https://doi.org/10.3389/fpsyt.2022.896018)). And further evolved into i-HECT, currently in progress.
-    -   **Schizophrenia and coronary artery calcium (CAC)**: Uncovered increased CAC in schizophrenia patients through COVID-19 chest CT analysis ([*Huang et al., 2021*](https://doi.org/10.1016/j.schres.2021.03.002)). Identified potential risk factors including elevated triglycerides and decreased Triiodothyronine.
+    -   **Schizophrenia and coronary artery calcium (CAC)**: Uncovered increased CAC in schizophrenia patients through COVID-19 chest CT analysis ([*Huang et al., 2021*](https://doi.org/10.1016/j.schres.2021.03.002)). Identified potential risk factors including elevated triglycerides and decreased Triiodothyronine (paper revised).
     -   **Gut microbiome in mood disorders**: Explored gut microbiota in patients with major depressive or bipolar disorder, highlighting distinctive microbiota patterns and links to the gut microbial tryptophan biosynthesis and metabolism pathway (MiTBamp)([*Rong et al., 2019*](https://doi.org/10.1016/j.jpsychires.2019.03.017); *Lai et al., 2021 [a](https://doi.org/10.1017/s0033291719003027) & [b](https://doi.org/10.1016/j.jad.2020.09.010)*).
     -   **Additional research endeavors**: Conducted a meta-analysis of MRI network topology in depression patients. ([*Xu et al., 2021*](https://doi.org/10.1016/j.jad.2021.08.120)).
 
