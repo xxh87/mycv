@@ -62,7 +62,7 @@ Further, I realized that these BDEVs can enter the peripheral blood and may also
 
 -   **Leadership**: Experience in leading and supervising research teams of about 5-20 members.
 
--   **Data analyses**: Experience in conducting clinical statistical analyses. Also proficient in high-throughput omics analysis, such as microbiome, proteomics, transcriptomics, lipidomics, and single-cell genomics.
+-   **Data analyses**: Experience in conducting clinical statistical analyses. Also proficient in high-throughput omics analysis, such as microbiome, proteomics, transcriptomics, and lipidomics.
 
 ## [Education]{style="color: #990000"}
 
@@ -86,7 +86,7 @@ Further, I realized that these BDEVs can enter the peripheral blood and may also
 
 ## [Professional Experience]{style="color: #990000"}
 
-#### - Huizhou Mental Health Center (Second People's Hospital of Huizhou), Huizhou, China
+#### - Brain Function and Psychosomatic Medicine Institute of Huizhou Mental Health Center (Second People's Hospital of Huizhou), Huizhou, China
 
 -   **Scientific Consultant** (Part-time (2021-Now)).
 -   **Director** (Full-time (2017-2021)).
