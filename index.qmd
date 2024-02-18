@@ -38,17 +38,15 @@ A recent approach that enriches **brain-derived extracellular vesicles (BDEVs) f
 
 Further, I realized that these BDEVs may also enter the urine. Therefore, **I innovated a novel method for isolating BDEVs from urine (uBDEV)**([*Xie et al., 2024*](https://doi.org/10.1101/2024.01.12.24301104))**. This method allows for non-invasive and frequent, even semi-daily, collection of *in vivo* CNS signals**, which is **like taking movies instead of photos of the CNS**. Hence, it has the potential to delineate intricate trajectories of CNS-specific molecular signals at the individual-level（please see figures below, the urinary astrocyte-derived EVs (uADEVs) were used as an example).
 
-![](pics/schematic%20diagram.png){fig-align="center"}
-
 <div>
 
-[(*Figure legends:*]{style="color: #666666"}
+![](pics/Fig1.png)
 
-[*Fig. 1: A) Isolation schematic diagram; B and C) The uADEVs exhibited typical shape of small EVs; D) Three EV markers (Alix, CD81, and CD9) and an astrocyte marker (GFAP) were present in the ADEVs sample, while a kidney marker (NKCC2) was absent. E) Four astrocyte-related neurotrophic factors have significantly increased in uADEVs.*]{style="color: #666666"}
+[*Fig. 1: Isolation and Validations of uADEVs. (A) Schematic diagram of the uADEVs isolation protocol. (B and C) NTA results of uTEVs and uADEVs. (D–G) TEM images of uTEVs and uADEVs (scale bars: 0.5 μm for D and F, 100 nm for E and G). (H) Results of western blotting: Three EV markers (CD63, CD9 and Alix) and an astrocyte marker (GFAP) were present in the ADEVs sample, while two kidney markers (NKCC2 and NCC) were absent. (I) Immunogold labeled uADEVs with anti-GLAST antibody (the back dots).*]{style="color: #666666"}
 
-[*Fig. 2: Preliminary data from an encephalitis patient showed the IL-1β concentrations in cerebro-spinal fluid (CSF) and uADEVs.*]{style="color: #666666"}
+![](pics/Fig2.png)
 
-[*Fig. 3: The uBDEV approach could delineate detailed trajectories of specific molecular signals in CNS at the individual level.*)]{style="color: #666666"}
+[*Fig. 2: The Significance of the uADEV approach. (A) The advantage of high-frequent sampling. (B) The detailed trajectories of target molecules may benefit for the exploration (Molecule A and B) and falsification (Molecule C) of pathological hypotheses. (C–E) Even under the assumption that all patients have the same molecular trajectories, yet, time-induced heterogeneity exist merely due to different sampling points along the trajectory. However, individual-level detailed trajectories may allow some post-hoc algorithms, such as peak-based realignment, to reduce the time-induced heterogeneity.*]{style="color: #666666"}
 
 </div>
 
