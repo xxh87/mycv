@@ -36,7 +36,7 @@ However, **for rapidly changing CNS diseases** (*e.g.*, weeks or even days), dai
 
 A recent approach that enriches **brain-derived extracellular vesicles (BDEVs) from peripheral blood offers direct *in vivo* CNS data, bypassing the blood-brain barrier, like the "[*New windows into the brain*](https://doi.org/10.1016/j.pneurobio.2019.01.005)"**.
 
-Further, I realized that these BDEVs may also enter the urine. Therefore, **I innovated a novel method for isolating BDEVs from urine (uBDEV)**([*Xie et al., 2024*](https://doi.org/10.1101/2024.01.12.24301104))**. This method allows for non-invasive and frequent, even semi-daily, collection of *in vivo* CNS signals**, which is **like taking movies instead of photos of the CNS**. Hence, it has the potential to delineate intricate trajectories of CNS-specific molecular signals at the individual-level（please see figures below, the urinary astrocyte-derived EVs (uADEVs) were used as an example).
+Further, I realized that these BDEVs may also enter the urine. Therefore, **I designed a novel method for isolating BDEVs from urine (uBDEV)**([*Xie et al., 2024*](https://doi.org/10.1101/2024.01.12.24301104))**. This method allows for non-invasive and frequent, even semi-daily, collection of *in vivo* CNS signals**, which is **like taking movies instead of photos of the CNS**. Hence, it has the potential to delineate intricate trajectories of CNS-specific molecular signals at the individual-level（please see figures below, the urinary astrocyte-derived EVs (uADEVs) were used as an example).
 
 <div>
 
@@ -50,9 +50,9 @@ Further, I realized that these BDEVs may also enter the urine. Therefore, **I in
 
 </div>
 
-**In my opinion, this method will be a game changer, and the high-frequency sampling may become a standard protocol in the field of research on rapidly changing CNS diseases.**
+**In my view, the uBDEVs method has the potential to be a game changer, and high-frequency sampling could become a standard protocol in the research of rapidly changing CNS diseases.**
 
-**I will obtain a Ph.D. degree in 2024**. As so many questions remain in this field, I am now motivated to secure a position that will allow me to use my method and other skills to extensively explore neuro-psychiatric disorders. **I am particularly interested in the following aspects of CNS diseases: uncovering new biomarkers, potentially identifying new diseases, elucidating their underlying mechanisms, developing diagnostic tools, and improving treatment strategies**.
+**I will receive a Ph.D. in Psychiatry in July 2024**. As so many questions remain in this field, I am now motivated to secure a position that will allow me to use my method and other skills to extensively explore neuro-psychiatric disorders. **I am particularly interested in the following aspects of CNS diseases: uncovering new biomarkers, potentially identifying new diseases, elucidating their underlying mechanisms, developing diagnostic tools, and improving treatment strategies**.
 
 ## [Skills]{style="color: #990000"}
 
@@ -115,11 +115,11 @@ Further, I realized that these BDEVs may also enter the urine. Therefore, **I in
 
 1.  [[**Xie, X. H.#\***]{.underline}]{style="color: #990000"}, Chen, M. M.#, Xu, S. X., Mei, J. Yang, Q., Wang, C. & Liu, Z.\* (2024). **Urinary Astrocyte-derived Extracellular Vesicles: A Non-invasive Tool for Capturing Human *In Vivo* Molecular "Movies" of Brain.** *medRxiv,* 2024.01.12.24301104. [DOI](https://doi.org/10.1101/2024.01.12.24301104) [(Role: Conceptualization, Methodology, Formal analysis, Investigation, Writing - Original Draft, Writing - Review & Editing, Visualization, Supervision)]{style="color: #3399ff"}
 
-2.  Rong, J.#, Sun, S., Xu, S. X., [[**Xie, X. H.**]{.underline}]{style="color: #990000"}, Wang, C., Chen, G., Kang, L., Xiang, D., & Liu, Z.\* (2024). The Neuroprotective Effects of BMSC-Derived Exosomes against Glutamate-Induced HT22 Cell Cytotoxicity. *Neuroscience*, S0306-4522(24)00039-3. [PMID](https://pubmed.ncbi.nlm.nih.gov/38342336/) [DOI](https://doi.org/10.1016/j.neuroscience.2024.01.023)
+2.  Rong, J.#, Sun, S., Xu, S. X., [[**Xie, X. H.**]{.underline}]{style="color: #990000"}, Wang, C., Chen, G., Kang, L., Xiang, D., & Liu, Z.\* (2024). The Neuroprotective Effects of BMSC-Derived Exosomes against Glutamate-Induced HT22 Cell Cytotoxicity. *Neuroscience*, S0306-4522(24)00039-3. [DOI](https://doi.org/10.1016/j.neuroscience.2024.01.023) [PMID](https://pubmed.ncbi.nlm.nih.gov/38342336/)
 
 3.  Chen, L. C.#, Tan, W. Y.#, Xi, J. Y., [[**Xie, X. H.**]{.underline}]{style="color: #990000"}, Lin, H. C., Wang, S. B., Wu, G. H., Liu, Y., Gu, J., Jia, F. J.\*, Du, Z. C.\*, & Hao, Y. T.\* (2024). Violent behavior and the network properties of psychopathological symptoms and real-life functioning in patients with schizophrenia. *Frontiers in Psychiatry*, *14*, 1324911. [DOI](https://doi.org/10.3389/fpsyt.2023.1324911) [(Role: Conceptualization, Methodology, Validation, Writing - Review & Editing)]{style="color: #3399ff"}
 
-4.  Huang, T. Y.#, Chen, L. C.#, Li, X. P.#, Li, W. H., Xu, S. X., Nagy, C., Ibrahim, P., Nie, Z. W., Yang, N. Y., Zeng, L., Huang, H. W., Turecki, G., [[**Xie, X. H.*\****]{.underline}]{style="color: #990000"} (2023). **Elevated Triglycerides and Low Triiodothyronine: Key Risk Factors for Coronary Artery Calcification in Schizophrenia Patients**. *Schizophrenia research*, *264*, 113-121. [PMID](https://pubmed.ncbi.nlm.nih.gov/38128342/) [DOI](https://doi.org/10.1016/j.schres.2023.12.007) [(Role: Conceptualization, Methodology, Project administration, Supervision, Writing - Review & Editing)]{style="color: #3399ff"}
+4.  Huang, T. Y.#, Chen, L. C.#, Li, X. P.#, Li, W. H., Xu, S. X., Nagy, C., Ibrahim, P., Nie, Z. W., Yang, N. Y., Zeng, L., Huang, H. W., Turecki, G., [[**Xie, X. H.*\****]{.underline}]{style="color: #990000"} (2023). **Elevated Triglycerides and Low Triiodothyronine: Key Risk Factors for Coronary Artery Calcification in Schizophrenia Patients**. *Schizophrenia research*, *264*, 113-121. [DOI](https://doi.org/10.1016/j.schres.2023.12.007) [PMID](https://pubmed.ncbi.nlm.nih.gov/38128342/) [(Role: Conceptualization, Methodology, Project administration, Supervision, Writing - Review & Editing)]{style="color: #3399ff"}
 
 5.  [[**Xie, X. H.#**]{.underline}]{style="color: #990000"}, Xu, S. X.#, Yao, L., Chen, M. M., Zhang, H., Wang, C.,Nagy, C., & Liu, Z.\* (2023). **Altered *In Vivo* Early Neurogenesis Traits in Patients with Depression: Evidence from Neuron-Derived Extracellular Vesicles and Electroconvulsive Therapy.** *Brain stimulation*, *17*(1), 19–28. [DOI](https://doi.org/10.1016/j.brs.2023.12.006) [PMID](https://pubmed.ncbi.nlm.nih.gov/38101468/) [(Role: Conceptualization, Formal analysis, Visualization, Writing - Original Draft)]{style="color: #3399ff"}
 
