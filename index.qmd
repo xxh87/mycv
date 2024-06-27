@@ -4,7 +4,7 @@ format:
     embed-resources: true
 ---
 
-# [XIE, Xin-hui (謝新暉)]{style="color: navy"}
+# [XIE, Xin-hui, MD & PhD]{style="color: navy"}
 
 #### **Seeking scientific positions in academia or industry, including Assistant Professor, Postdoctoral Researcher, and Research Team Leader.**
 
@@ -52,7 +52,7 @@ Further, I realized that these BDEVs may also enter the urine. Therefore, **I de
 
 **In my view, the uBDEVs method has the potential to be a game changer, and high-frequency sampling could become a standard protocol in the research of rapidly changing CNS diseases.**
 
-**I will receive a Ph.D. in Psychiatry in July 2024**. As so many questions remain in this field, I am now motivated to secure a position that will allow me to use my method and other skills to extensively explore neuro-psychiatric disorders. **I am particularly interested in the following aspects of CNS diseases: uncovering new biomarkers, potentially identifying new diseases, elucidating their underlying mechanisms, developing diagnostic tools, and improving treatment strategies**.
+**I received a Ph.D. in Psychiatry in July 2024**. As so many questions remain in this field, I am now motivated to secure a position that will allow me to use my method and other skills to extensively explore neuro-psychiatric disorders. **I am particularly interested in the following aspects of CNS diseases: uncovering new biomarkers, potentially identifying new diseases, elucidating their underlying mechanisms, developing diagnostic tools, and improving treatment strategies**.
 
 ## [Skills]{style="color: #990000"}
 
@@ -66,7 +66,7 @@ Further, I realized that these BDEVs may also enter the urine. Therefore, **I de
 
 #### - Wuhan University, Wuhan, China (2021 - 2024)
 
--   **Ph.D. candidate in Psychiatry.**
+-   **Ph.D. in Psychiatry.**
 -   Main research contents:
     -   **New methods**: Innovated a method for isolating BDEVs (ADEVs, NDEVs, and oligodendrocyte-derived EVs) from urine ([*Xie et al., 2024*](https://doi.org/10.1101/2024.01.12.24301104)).
     -   **BDEV, depression and electroconvulsive therapy (ECT)**: Investigating the status of neuroinflammation and neurogenesis in patients with major depressive disorder (MDD) using plasma/serum astrocyte-derived extracellular vesicles (ADEVs)([*Xu et al., 2023*](https://doi.org/10.1111/pcn.13596)) and neuro-derived EVs (NDEVs)([*Xie et al., 2023*](https://doi.org/10.1016/j.brs.2023.12.006)), and the changes before and after ECT.
