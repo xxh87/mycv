@@ -6,7 +6,7 @@ format:
 
 # [XIE, Xin-hui, MD & PhD]{style="color: navy"}
 
-#### **Seeking scientific positions in academia or industry, including Assistant Professor, Postdoctoral Researcher, and Research Team Leader.**
+#### 
 
 +-------------------------------------------------------------------------------------------+------------------------------------:+
 | ## [Contact Information]{style="color: #990000"}                                          | ![](pics/Citation.png){width="280"} |
@@ -19,7 +19,7 @@ format:
 |                                                                                           |                                     |
 | -   Google Scholar: [Xin-hui Xie](https://scholar.google.com/citations?user=exF-vzUAAAAJ) |                                     |
 |                                                                                           |                                     |
-|     Last updated on June-21-2024.                                                         |                                     |
+|     Last updated on July-24-2024.                                                         |                                     |
 +-------------------------------------------------------------------------------------------+-------------------------------------+
 
 ## [Main Research Interest]{style="color: #990000"}
@@ -58,9 +58,7 @@ Further, I realized that these BDEVs may also enter the urine. Therefore, **I de
 
 -   **Study design**: Full experience in trial designing and managing clinical trials, including case-control trials, cohorts, and randomized controlled trials (RCTs).
 
--   **Leadership**: Experience in leading and supervising research teams of about 5-20 members.
-
--   **Data analyses**: Experience in conducting clinical statistical analyses. Also proficient in high-throughput omics analysis, such as microbiome, proteomics, transcriptomics, and lipidomics.
+-   **Data analyses**: Clinical statistical analyses and high-throughput omics analysis, such as GWAS, single-cell sequencing, microbiome, proteomics, transcriptomics, and lipidomics, and neuroimaging analysis.
 
 ## [Education]{style="color: #990000"}
 
