@@ -26,9 +26,9 @@ format:
 
 ## [Skills]{style="color: #990000"}
 
--   **Clinical research experience**. As the principal investigator or conjunction-principal investigator I have designed and conducted multiple clinical trials, including three randomized controlled trials, one single-arm trial with Simon's two-stage design, and several case-controlled studies, and cohort studies.
+-   **Clinical Research Experience**. As the principal investigator or conjunction-principal investigator I have designed and conducted multiple clinical trials, including three randomized controlled trials, one single-arm trial with Simon's two-stage design, and several case-controlled studies, and cohort studies.
 
--   **Data analyses**. I am proficient in clinical statistical analysis and multi-omics data analysis, including single-cell sequencing, microbiome, proteomics, transcriptomics, lipidomics, and neuroimaging.
+-   **Data Analyses**. I am proficient in clinical statistical analysis and multi-omics data analysis, including single-cell sequencing, microbiome, proteomics, transcriptomics, lipidomics, and neuroimaging.
 
 -   **Neural Mechanism Related** **Research**. Employing brain-derived extracellular vesicles (BDEVs) and complementary methodologies, we conducted a series of investigations into the mechanisms underlying depression. Our research encompassed both clinical trials and rodent models.
 
@@ -38,7 +38,7 @@ format:
 
 -   **Brain Imaging**. Earlier, I have analyzed resting-state functional MRI and published a meta-analysis of brain networks based on graph theory.
 
--   **Experience of manuscript publication and peer-reviewing**. I have authored over 50 papers, the majority of which are published in JCR Q1 and Q2 journals, with some in top-tier publications. I hold first or corresponding authorship on approximately 26 papers (H-index = 13, total citations = 857). Additionally, I have served as a reviewer for more than ten reputable journals worldwide.
+-   **Experience of Manuscript Publication and Peer-reviewing**. I have authored over 50 papers, the majority of which are published in JCR Q1 and Q2 journals, with some in top-tier publications. I hold first or corresponding authorship on approximately 26 papers (H-index = 13, total citations = 857). Additionally, I have served as a reviewer for more than ten reputable journals worldwide.
 
 ## [My Strengths]{style="color: #990000"}
 
