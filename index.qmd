@@ -102,10 +102,6 @@ However, my innovative method of extracting brain-derived extracellular vesicles
 
 ## [Professional Experience]{style="color: #990000"}
 
-#### - Washington University in Saint Louis, USA
-
--   **Postdoctoral Research Associate** (2025 - Now).
-
 #### - Brain Function and Psychosomatic Medicine Institute of Huizhou Mental Health Center (Second People's Hospital of Huizhou), Huizhou, China
 
 -   **Scientific Consultant** (Part-time (2021-2024)).
@@ -127,7 +123,9 @@ However, my innovative method of extracting brain-derived extracellular vesicles
 
 #### - Service as Reviewer
 
+-   *Brain Behavior and Immunity.*
 -   *Psychological Medicine.*
+-   *eBioMedicine.*
 -   *Schizophrenia Research.*
 -   *Australian and New Zealand Journal of Psychiatry.*
 -   *Human Brain Mapping.*
